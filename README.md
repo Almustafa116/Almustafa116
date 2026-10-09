@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mo%20Al-Musstafa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Mo%20Al-Musstafa&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Web%20%26%20Mobile%20App%20Developer&amp;descAlignY=58&amp;descSize=20"/>
 
-<!-- Typing animation -->
-<a href="https://github.com/Almustafa116">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Experience;Flutter+%26+Cross-Platform+Apps;Modern+Web+Development;Clean+Code+%7C+Great+UX;From+Idea+to+Launch+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C9A227&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=5%2B+Years+of+Experience;Flutter+%26+Cross-Platform+Apps;Modern+Web+Development;Clean+Code+%7C+Great+UX;From+Idea+to+Launch+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
@@ -29,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,ts,html,css,git,github,vscode,xd,figma&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,ts,html,css,git,github,vscode,xd,figma&amp;theme=dark&amp;perline=6"/>
 </div>
 
 ---
@@ -53,11 +49,11 @@
 *Open for freelance projects & collaborations*
 
 <a href="https://github.com/Almustafa116">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=120&amp;section=footer"/>
 </div>
