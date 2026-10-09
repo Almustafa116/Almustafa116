@@ -1,11 +1,5 @@
-<h1 align="center">👋 مرحباً، أنا Mo Al-Musstafa</h1>
-<h3 align="center">Web & App Developer — مطور ويب وتطبيقات</h3>
-
-<p align="center">
-مطوّر ويب وتطبيقات بخبرة <b>+5 سنوات</b> في بناء منتجات رقمية متكاملة — من الفكرة إلى الإطلاق.
-أتخصص في تطوير تطبيقات موبايل عصرية بـ Flutter، وبناء مواقع وواجهات ويب سريعة ومتجاوبة،
-مع تركيز دائم على تجربة المستخدم، جودة الكود، والأداء العالي.
-</p>
+<h1 align="center">👋 Hi, I'm Mo Al-Musstafa</h1>
+<h3 align="center">Web & Mobile App Developer</h3>
 
 <p align="center">
 A Web & Mobile App Developer with <b>5+ years of experience</b> building complete digital products — from idea to launch.<br/>
@@ -15,7 +9,7 @@ with a constant focus on user experience, clean code, and high performance.
 
 ---
 
-### 🛠️ المهارات والتقنيات — Skills & Technologies
+### 🛠️ Skills & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -31,16 +25,16 @@ with a constant focus on user experience, clean code, and high performance.
 
 ---
 
-### 💼 ماذا أقدم — What I Do
+### 💼 What I Do
 
-- 📱 **تطبيقات موبايل** — Cross-platform mobile apps (iOS & Android) with Flutter
-- 🌐 **مواقع وواجهات ويب** — Responsive, fast, and modern web applications
-- 🔗 **تكامل الأنظمة** — REST API integration, authentication & payment flows
-- 🎨 **تجربة مستخدم** — RTL-first Arabic interfaces & polished UI/UX
-- 🚀 **إطلاق ونشر** — CI/CD pipelines, TestFlight & store deployment
+- 📱 **Mobile Apps** — Cross-platform apps for iOS & Android with Flutter
+- 🌐 **Web Development** — Responsive, fast, and modern web applications
+- 🔗 **System Integration** — REST APIs, authentication & payment flows
+- 🎨 **User Experience** — RTL-first Arabic interfaces & polished UI/UX
+- 🚀 **Shipping** — CI/CD pipelines, TestFlight & store deployment
 
 ---
 
 <p align="center">
-<i>"أحوّل الأفكار إلى منتجات رقمية حقيقية — Turning ideas into real digital products."</i>
+<i>"Turning ideas into real digital products."</i>
 </p>
