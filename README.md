@@ -1,8 +1,15 @@
-# Mo Al-Musstafa
+<h1 align="center">👋 Hi, I'm Mo Al-Musstafa</h1>
+<h3 align="center">Web & Mobile App Developer</h3>
 
-**Web & Mobile App Developer**
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C9A227&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=5%2B+Years+of+Experience;Flutter+%26+Cross-Platform+Apps;Modern+Web+Development;Clean+Code+%7C+Great+UX;From+Idea+to+Launch+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
 
-> A developer with **5+ years of experience** building complete digital products — from idea to launch. Specialized in modern cross-platform apps with **Flutter** and fast, responsive web experiences, with a constant focus on **user experience, clean code, and high performance**.
+---
+
+### 👨‍💻 About Me
+
+> A **Web & Mobile App Developer** with **5+ years of experience** building complete digital products — from idea to launch. Specialized in modern cross-platform apps with **Flutter** and fast, responsive web experiences, with a constant focus on **user experience, clean code, and high performance**.
 
 ```text
 💡  Turning ideas into real digital products
@@ -14,15 +21,17 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-`Flutter` `Dart` `Firebase` `JavaScript` `TypeScript` `HTML5` `CSS3` `Git` `REST APIs` `CI/CD`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,ts,html,css,git,github,vscode,xd,figma&amp;theme=dark&amp;perline=6"/>
+</div>
 
 ---
 
-## 💼 What I Do
+### 💼 What I Do
 
-| Service | Description |
+| 🎯 Service | 📝 Description |
 |---|---|
 | **Mobile Apps** | Cross-platform apps for iOS & Android with Flutter |
 | **Web Development** | Responsive, fast & modern web applications |
@@ -32,4 +41,14 @@
 
 ---
 
-*Open for freelance projects & collaborations — let's build something great.*
+<div align="center">
+
+### 🤝 Let's Build Something Great
+
+*Open for freelance projects & collaborations*
+
+<a href="https://github.com/Almustafa116">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
+
+</div>
