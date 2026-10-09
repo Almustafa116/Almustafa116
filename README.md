@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Mo%20Al-Musstafa&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Web%20%26%20Mobile%20App%20Developer&amp;descAlignY=58&amp;descSize=20"/>
+<img width="100%" src="assets/header.svg" alt="Mo Al-Musstafa — Web & Mobile App Developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C9A227&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=5%2B+Years+of+Experience;Flutter+%26+Cross-Platform+Apps;Modern+Web+Development;Clean+Code+%7C+Great+UX;From+Idea+to+Launch+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -55,5 +55,5 @@
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=120&amp;section=footer"/>
+<img width="100%" src="assets/footer.svg" alt=""/>
 </div>
